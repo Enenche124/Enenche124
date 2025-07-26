@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enenche124
 - 👀 I’m interested in ...Programming 
-- 🌱 I’m currently learning ... programming front-end 
+- 🌱 I’m currently learning ... programming back-end 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...enenche56@gmail.com
 - 😄 Pronouns: ...
